@@ -1,0 +1,6 @@
+{
+  "name": "趣味儿童识字",
+  "description": "一款专为儿童设计的趣味识字与笔顺描红练习应用，支持自主添加生字、看笔顺演示、字形故事、识字小游戏以及AI原创识字绘本故事生成。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
